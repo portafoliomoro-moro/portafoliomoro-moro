@@ -1,9 +1,6 @@
 <h1 align="center"> Hola, soy Morocho</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Estilo-Darcula-ffcc00?style=for-the-badge&logoColor=white&color=242424" />
-  <img src="https://img.shields.io/badge/Role-Desarrollador%20de%20Software-6aa84f?style=for-the-badge&color=242424" />
-</p>
+
 
 ---
 
