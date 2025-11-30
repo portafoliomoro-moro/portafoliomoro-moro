@@ -13,19 +13,19 @@ Me destaco por mi **rápida adaptación**, **compromiso con el aprendizaje conti
 
 ---
 
-## 🛠️ Tecnologías y habilidades  
-```text
-Autoaprendizaje  
-Metodologías ágiles  
-Git  
-GitHub  
-Programación orientada a objetos (POO)  
-MySQL  
-JPA  
-Spring Boot  
-Patrones de diseño  
-JDBC  
-DAO  
-Jira  
-Confluence  
-SCRUM
+## Tecnologías  
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" alt="html5 logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" alt="css logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" alt="javascript logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="44" alt="java logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="44" alt="spring logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="44" alt="angularjs logo"  />
+</div>
+
+###
