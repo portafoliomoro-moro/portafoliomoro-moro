@@ -53,7 +53,7 @@
 
 # 🧑‍💻 Sobre mí
 
-Soy **Tecnólogo en Desarrollo de Software** con especial interés en el desarrollo backend con **Java + Spring Boot**, complementado con experiencia en desarrollo frontend utilizando Angular y React.
+Soy **Tecnólogo en Desarrollo de Software** con especial interés en el desarrollo backend con **Java + Spring Boot**, complementado con experiencia en desarrollo frontend utilizando Angular.
 
 Me destaco por:
 
@@ -63,7 +63,7 @@ Me destaco por:
 ✨ Adaptación rápida a nuevos entornos y tecnologías  
 ✨ Comunicación clara y pensamiento orientado a la solución  
 
-Me motiva crear productos que sean escalables, claros y que generen impacto real tanto en negocio como en equipo.
+Me motiva crear productos que sean escalables, claros y que generen impacto real.
 
 ---
 
