@@ -1,12 +1,12 @@
 <!-- Encabezado principal -->
 <h1 align="center">👋 Hola, soy <strong>Morocho</strong></h1>
-<h3 align="center">Desarrollador de Software | Backend · Frontend · Documentación Técnica</h3>
+<h3 align="center">Desarrollador de Software </h3>
 
 <br/>
 
 <!-- Banner de Tecnologías -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C9FF&center=true&vCenter=true&width=600&lines=Tecnólogo+en+Desarrollo+de+Software;Desarrollador+Java+%7C+Spring+Boot;Frontend+con+Angular+y+React;Apasionado+por+el+código+limpio+y+AGILE" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C9FF&center=true&vCenter=true&width=600&lines=Tecnólogo+en+Desarrollo+de+Software;Desarrollador+Java+%7C+Spring+Boot;Frontend+con+Angular;Apasionado+por+el+código+limpio+y+AGILE" />
 </div>
 
 ---
