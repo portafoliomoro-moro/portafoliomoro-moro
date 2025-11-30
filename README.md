@@ -1,6 +1,6 @@
 <!-- Encabezado principal -->
 <h1 align="center">👋 Hola, soy <strong>Morocho</strong></h1>
-<h3 align="center">Desarrollador de Software </h3>
+<h3 align="center">Desarrollador de Software | <strong>Java</strong> | <strong>Spring Boot</strong> </h3>
 
 <br/>
 
@@ -13,37 +13,90 @@
 
 # 🎨 Tecnologías & Herramientas
 
+<style>
+.card {
+  background: #0f1117;
+  padding: 18px;
+  border-radius: 12px;
+  text-align: center;
+  box-shadow: 0 0 8px rgba(255,255,255,0.05);
+  transition: transform 0.2s, box-shadow 0.2s;
+}
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 0 12px rgba(255,255,255,0.15);
+}
+.icon-row img {
+  margin: 5px;
+}
+</style>
+
 <table align="center">
   <tr>
-    <td align="center" width="250">
-      <h3>🟦 Lenguajes</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
+    <td width="260">
+      <div class="card">
+        <h3>🟦 Lenguajes</h3>
+        <div class="icon-row">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="45"/>
+        </div>
+      </div>
     </td>
-    <td align="center" width="250">
-      <h3>🟩 Backend</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45"/>
+
+    <td width="260">
+      <div class="card">
+        <h3>🟩 Backend</h3>
+        <div class="icon-row">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="45"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="45"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="45"/>
+        </div>
+      </div>
     </td>
-    <td align="center" width="250">
-      <h3>🟧 Frontend</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45"/>
+
+    <td width="260">
+      <div class="card">
+        <h3>🟧 Frontend</h3>
+        <div class="icon-row">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45"/>
+        </div>
+      </div>
     </td>
   </tr>
+
   <tr>
-    <td align="center" width="250">
-      <h3>🗄 Bases de Datos</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+    <td width="260">
+      <div class="card">
+        <h3>🗄 Bases de Datos</h3>
+        <div class="icon-row">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="45"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="45"/>
+        </div>
+      </div>
     </td>
-    <td align="center" width="250">
-      <h3>🛠 Herramientas</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+
+    <td width="260">
+      <div class="card">
+        <h3>🛠 Herramientas</h3>
+        <div class="icon-row">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="45"/>
+        </div>
+      </div>
     </td>
-    <td align="center" width="250">
-      <h3>📌 Agile & Docs</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="45"/>
+
+    <td width="260">
+      <div class="card">
+        <h3>📌 Agile & Docs</h3>
+        <div class="icon-row">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="45"/>
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="45"/>
+        </div>
+      </div>
     </td>
   </tr>
 </table>
@@ -71,8 +124,14 @@ Me motiva crear productos que sean escalables, claros y que generen impacto real
 
 <div align="center">
 
+<div align="center">
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo)
+[![Email](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/TU_NUMERO)
+
+</div>
+
 
 </div>
 
