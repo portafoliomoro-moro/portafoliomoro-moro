@@ -1,5 +1,9 @@
 <h1 align="center"> Hola, soy Morocho</h1>
+<div align="center">
+  <img height="200" src="https://wallpapers.com/images/hd/blue-squares-linkedin-cover-aile6d8sf0rdot7h.jpg"  />
+</div>
 
+###
 
 
 ---
@@ -31,9 +35,11 @@ Me destaco por mi **rápida adaptación**, **compromiso con el aprendizaje conti
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=portafoliomoro-moro&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=portafoliomoro-moro&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+## Tecnologías  
+
+
+
+###
+
 
 ###
