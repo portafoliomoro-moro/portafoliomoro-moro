@@ -1,5 +1,5 @@
 <!-- Encabezado principal -->
-<h1 align="center">👋 Hola, soy <strong>Morocho</strong></h1>
+<h1 align="center">👋 Hola, soy <strong>Juan Camilo</strong></h1>
 <h3 align="center">Desarrollador de Software | <strong>Java</strong> | <strong>Spring Boot</strong> </h3>
 
 <br/>
