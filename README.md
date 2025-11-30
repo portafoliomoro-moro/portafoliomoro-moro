@@ -1,83 +1,102 @@
-<h1 align="center"> Hola, soy Morocho</h1>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" alt="html5 logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" alt="css logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" alt="javascript logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="44" alt="java logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="44" alt="spring logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="44" alt="angularjs logo"  />
-</div>
-###
+👋 Hola, soy Tu Nombre
+<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" /> <img width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" /> <img width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" /> <img width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="44" /> <img width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="44" /> <img width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="44" /> </div>
+🧑‍💻 Sobre mí
 
+Soy Tecnólogo en Desarrollo de Software con experiencia en la construcción de aplicaciones web, análisis técnico y soporte a procesos de desarrollo utilizando buenas prácticas y metodologías ágiles.
 
----
+Me especializo en Java | Spring Boot | JavaScript | Angular/React, con un enfoque sólido en:
 
-## 🧑‍💻 Sobre mí  
-Desarrollador de software con conocimiento en **programación orientada a objetos (POO)**, **bases de datos** y **gestión de proyectos**.  
-Habilidades en **documentación técnica** y **metodologías ágiles**.  
+Desarrollo backend con patrones de diseño, APIs REST y acceso a bases de datos
 
-Busco contribuir con soluciones innovadoras en entornos dinámicos de desarrollo.  
-Me destaco por mi **rápida adaptación**, **compromiso con el aprendizaje continuo** y **capacidad para asumir responsabilidades**, aportando desde el primer día.
+Aplicaciones frontend modulares, escalables y bien estructuradas
 
----
+Documentación técnica clara y mantenible (Jira, Confluence)
 
-## Tecnologías  
+Trabajo colaborativo bajo marcos ágiles como Scrum
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" alt="html5 logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" alt="css logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" alt="javascript logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="44" alt="java logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="44" alt="spring logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="44" alt="angularjs logo"  />
-</div>
+🎯 ¿Qué aporto a un equipo?
 
+✔ Capacidad de adaptación rápida a nuevos entornos y tecnologías
+✔ Orientación a resultados y calidad del código
+✔ Comunicación efectiva y colaboración en equipo
+✔ Aprendizaje continuo y compromiso con las buenas prácticas
+✔ Enfoque en entender el negocio y las necesidades del proyecto
 
-## ⭐ Proyectos Destacados
+🧩 Tecnologías & Herramientas
+Lenguajes
 
-<div align="center">
+Java
 
-### 🧩 **Nombre del Proyecto 1**
-📝 Breve descripción del proyecto en una línea.  
-💻 **Tecnologías:** Java | Spring | MySQL  
-🔗 [Ver repositorio](TU_LINK)
+JavaScript
 
----
+SQL
 
-### ⚛️ **Nombre del Proyecto 2**
-📝 Aplicación frontend con componentes reutilizables.  
-💻 **Tecnologías:** React | Redux | TailwindCSS  
-🔗 [Ver repositorio](TU_LINK)
+HTML / CSS
 
----
+Backend
 
-### 🚀 **Nombre del Proyecto 3**
-📝 API REST documentada y preparada para producción.  
-💻 **Tecnologías:** Node | Express | PostgreSQL  
-🔗 [Ver repositorio](TU_LINK)
+Spring Boot
 
-</div>
+Spring Security
 
-### 📌 Proyecto 3 — **Nombre del Proyecto**
-> API REST robusta con autenticación, validaciones y documentación técnica.  
-**Tecnologías:** `Node.js` · `Express` · `PostgreSQL`  
-🔗 **Repo:** [Ver en GitHub](TU_LINK)
+JPA / Hibernate
 
+Node.js (básico)
 
-## 🏆 Proyectos Destacados
+Frontend
 
-| Proyecto | Descripción | Tecnologías | Enlace |
-|---------|-------------|-------------|--------|
-| **🔥 Proyecto 1** | Solución backend estable con arquitectura limpia. | ![Java](https://img.shields.io/badge/Java-red?style=flat) ![Spring](https://img.shields.io/badge/Spring-green?style=flat) | [GitHub](TU_LINK) |
-| **⚛️ Proyecto 2** | Frontend moderno y responsivo. | ![React](https://img.shields.io/badge/React-blue?style=flat) ![Redux](https://img.shields.io/badge/Redux-purple?style=flat) | [GitHub](TU_LINK) |
-| **🚀 Proyecto 3** | API REST completa con autenticación. | ![Node](https://img.shields.io/badge/Node.js-3C873A?style=flat) ![Express](https://img.shields.io/badge/Express-black?style=flat) | [GitHub](TU_LINK) |
+Angular
+
+React (opcional, si lo usas)
+
+TailwindCSS / Bootstrap
+
+Dev & Tools
+
+Git / GitHub
+
+Jira, Confluence
+
+Postman
+
+Docker (básico)
+
+🚀 Proyectos Destacados
+
+Selección estructurada y visual para que el reclutador entienda rápido qué haces.
+
+📌 Proyecto 1 – Título profesional del proyecto
+
+Breve descripción del proyecto, qué problema resuelve y tu aporte principal.
+Tecnologías: Java · Spring Boot · MySQL
+🔗 Ver repositorio
+
+📌 Proyecto 2 – Título profesional del proyecto
+
+Aplicación frontend modular y responsiva con buenas prácticas.
+Tecnologías: Angular · TypeScript · Bootstrap
+🔗 Ver repositorio
+
+📌 Proyecto 3 – Título profesional del proyecto
+
+API REST con autenticación, manejo de errores y documentación técnica.
+Tecnologías: Node.js · Express · PostgreSQL
+🔗 Ver repositorio
+
+📞 Contacto
+
+Si deseas saber más sobre mi trabajo o colaborar en algún proyecto, puedes contactarme:
+
+📧 Correo: tu-correo@example.com
+
+💼 LinkedIn: https://tu-linkedin
+
+🌐 Portafolio: tu-portafolio
+🐙 GitHub: tu-usuario
+
+🧭 Mi Estilo Profesional
+
+Me gusta crear soluciones claras, escalables y bien documentadas.
+Trabajo con mentalidad de mejora continua y enfoque práctico, buscando siempre aportar valor desde el primer día.
+
+Además, disfruto construir código mantenible, entender el negocio y trabajar en equipo para entregar productos sólidos.
