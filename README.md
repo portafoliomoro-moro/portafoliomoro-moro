@@ -1,102 +1,101 @@
-👋 Hola, soy Tu Nombre
-<div align="center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="44" /> <img width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="44" /> <img width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" /> <img width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="44" /> <img width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="44" /> <img width="25" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="44" /> </div>
-🧑‍💻 Sobre mí
+<!-- Encabezado principal -->
+<h1 align="center">👋 Hola, soy <strong>Tu Nombre</strong></h1>
+<h3 align="center">Desarrollador de Software | Backend · Frontend · Documentación Técnica</h3>
 
-Soy Tecnólogo en Desarrollo de Software con experiencia en la construcción de aplicaciones web, análisis técnico y soporte a procesos de desarrollo utilizando buenas prácticas y metodologías ágiles.
+<br/>
 
-Me especializo en Java | Spring Boot | JavaScript | Angular/React, con un enfoque sólido en:
+<!-- Banner de Tecnologías -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C9FF&center=true&vCenter=true&width=600&lines=Tecnólogo+en+Desarrollo+de+Software;Desarrollador+Java+%7C+Spring+Boot;Frontend+con+Angular+y+React;Apasionado+por+el+código+limpio+y+AGILE" />
+</div>
 
-Desarrollo backend con patrones de diseño, APIs REST y acceso a bases de datos
+---
 
-Aplicaciones frontend modulares, escalables y bien estructuradas
+# 🎨 Tecnologías & Herramientas
 
-Documentación técnica clara y mantenible (Jira, Confluence)
+<div align="center">
 
-Trabajo colaborativo bajo marcos ágiles como Scrum
+### 🚀 Lenguajes
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50"/>
 
-🎯 ¿Qué aporto a un equipo?
+<br/><br/>
 
-✔ Capacidad de adaptación rápida a nuevos entornos y tecnologías
-✔ Orientación a resultados y calidad del código
-✔ Comunicación efectiva y colaboración en equipo
-✔ Aprendizaje continuo y compromiso con las buenas prácticas
-✔ Enfoque en entender el negocio y las necesidades del proyecto
+### 🔧 Backend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50"/>
 
-🧩 Tecnologías & Herramientas
-Lenguajes
+<br/><br/>
 
-Java
+### 🎨 Frontend
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="50"/>
 
-JavaScript
+<br/><br/>
 
-SQL
+### 🗄 Bases de Datos
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
 
-HTML / CSS
+<br/><br/>
 
-Backend
+### 🛠 Herramientas & DevOps
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="50"/>
 
-Spring Boot
+</div>
 
-Spring Security
+---
 
-JPA / Hibernate
+# 🧑‍💻 Sobre mí
 
-Node.js (básico)
+Soy **Tecnólogo en Desarrollo de Software** con especial interés en el desarrollo backend con **Java + Spring Boot**, complementado con experiencia en desarrollo frontend utilizando Angular y React.
 
-Frontend
+Me destaco por:
 
-Angular
+✨ **Código limpio**, mantenible y siguiendo buenas prácticas  
+✨ Excelente **capacidad de documentación** técnica (Jira, Confluence)  
+✨ Comprensión de **metodologías ágiles** como Scrum  
+✨ Adaptación rápida a nuevos entornos y tecnologías  
+✨ Comunicación clara y pensamiento orientado a la solución  
 
-React (opcional, si lo usas)
+Me motiva crear productos que sean escalables, claros y que generen impacto real tanto en negocio como en equipo.
 
-TailwindCSS / Bootstrap
+---
 
-Dev & Tools
+# 📞 Contacto
 
-Git / GitHub
+<div align="center">
 
-Jira, Confluence
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-correo)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](#)
+[![Portafolio](https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=vercel&logoColor=white)](#)
 
-Postman
+</div>
 
-Docker (básico)
+---
 
-🚀 Proyectos Destacados
+# ✨ Estilo Profesional
 
-Selección estructurada y visual para que el reclutador entienda rápido qué haces.
+Me gusta trabajar con:
 
-📌 Proyecto 1 – Título profesional del proyecto
+✔ Buenas prácticas  
+✔ Trabajo en equipo  
+✔ Documentación clara  
+✔ Mentalidad ágil  
+✔ Constancia y aprendizaje continuo  
 
-Breve descripción del proyecto, qué problema resuelve y tu aporte principal.
-Tecnologías: Java · Spring Boot · MySQL
-🔗 Ver repositorio
+Mi enfoque siempre es construir soluciones simples, elegantes y eficientes.
 
-📌 Proyecto 2 – Título profesional del proyecto
+---
 
-Aplicación frontend modular y responsiva con buenas prácticas.
-Tecnologías: Angular · TypeScript · Bootstrap
-🔗 Ver repositorio
-
-📌 Proyecto 3 – Título profesional del proyecto
-
-API REST con autenticación, manejo de errores y documentación técnica.
-Tecnologías: Node.js · Express · PostgreSQL
-🔗 Ver repositorio
-
-📞 Contacto
-
-Si deseas saber más sobre mi trabajo o colaborar en algún proyecto, puedes contactarme:
-
-📧 Correo: tu-correo@example.com
-
-💼 LinkedIn: https://tu-linkedin
-
-🌐 Portafolio: tu-portafolio
-🐙 GitHub: tu-usuario
-
-🧭 Mi Estilo Profesional
-
-Me gusta crear soluciones claras, escalables y bien documentadas.
-Trabajo con mentalidad de mejora continua y enfoque práctico, buscando siempre aportar valor desde el primer día.
-
-Además, disfruto construir código mantenible, entender el negocio y trabajar en equipo para entregar productos sólidos.
