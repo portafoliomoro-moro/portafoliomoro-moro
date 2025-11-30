@@ -96,4 +96,58 @@ Me gusta trabajar con:
 
 Mi enfoque siempre es construir soluciones simples, elegantes y eficientes.
 
+<h2 align="left">🎨 Tecnologías & Herramientas</h2>
+
+<table align="center">
+  <tr>
+    <td align="center" width="260">
+      <h3>🟦 Lenguajes</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50"/>
+    </td>
+    <td align="center" width="260">
+      <h3>🟩 Backend</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="50"/>
+    </td>
+    <td align="center" width="260">
+      <h3>🟧 Frontend</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="50"/>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center" width="260">
+      <h3>🗄 Bases de Datos</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50"/>
+    </td>
+    <td align="center" width="260">
+      <h3>🛠 Herramientas</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50"/>
+    </td>
+    <td align="center" width="260">
+      <h3>📌 Agile & Docs</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="50"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="50"/>
+    </td>
+  </tr>
+</table>
+
+
+## 🚀 Mis Proyectos Destacados
+
+<a href="https://github.com/usuario/proyecto1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=usuario&repo=proyecto1&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/usuario/proyecto2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=usuario&repo=proyecto2&theme=tokyonight" />
+</a>
 
