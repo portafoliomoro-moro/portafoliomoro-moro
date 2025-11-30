@@ -1,7 +1,4 @@
 <h1 align="center"> Hola, soy Morocho</h1>
-<div align="center">
-  <img height="200" src="https://wallpapers.com/images/hd/blue-squares-linkedin-cover-aile6d8sf0rdot7h.jpg"  />
-</div>
 
 ###
 
@@ -33,23 +30,23 @@ Me destaco por mi **rápida adaptación**, **compromiso con el aprendizaje conti
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="44" alt="angularjs logo"  />
 </div>
 
+## 🚀 Proyectos Destacados
 
-###
+### 📌 Proyecto 1 — **Nombre del Proyecto**
+> Descripción breve del proyecto: qué hace, su objetivo y qué problema resuelve.  
+**Tecnologías:** `Java` · `Spring Boot` · `MySQL`  
+🔗 **Repo:** [Ver en GitHub](TU_LINK)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+---
 
-###
+### 📌 Proyecto 2 — **Nombre del Proyecto**
+> Aplicación web enfocada en rendimiento, arquitectura limpia y componentes reutilizables.  
+**Tecnologías:** `React` · `Redux` · `TailwindCSS`  
+🔗 **Repo:** [Ver en GitHub](TU_LINK)
 
-###
+---
 
-## Tecnologías  
-
-
-
-###
-
-
-###
+### 📌 Proyecto 3 — **Nombre del Proyecto**
+> API REST robusta con autenticación, validaciones y documentación técnica.  
+**Tecnologías:** `Node.js` · `Express` · `PostgreSQL`  
+🔗 **Repo:** [Ver en GitHub](TU_LINK)
