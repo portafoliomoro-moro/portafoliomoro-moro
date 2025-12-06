@@ -84,29 +84,3 @@ Me motiva crear productos que sean escalables, claros y que generen impacto real
 
 ---
 
-🚀 Ruta de Aprendizaje – Java & Spring
-<table align="center"> <tr> <td align="center" width="300"> <h2>🔹 Nivel 1</h2> <h3>Java SE + JDBC + DAO</h3> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="55"/> <p>CRUD por consola<br/>Patrón DAO – JDBC</p> </td>
-
-<td align="center" width="300">
-  <h2>🔹 Nivel 2</h2>
-  <h3>Spring Boot (Capas)</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="55"/>
-  <p>Modelo – Repositorio – Servicio – Controlador</p>
-</td>
-
-<td align="center" width="300">
-  <h2>🔹 Nivel 3</h2>
-  <h3>Spring MVC + Thymeleaf</h3>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="55"/>
-  <p>Aplicación web con vistas dinámicas</p>
-</td>
-
-📚 Proyectos del Camino de Aprendizaje
-<table align="center"> <tr> <td align="center" colspan="3"> <h2>📘 Gestión de Biblioteca Municipal</h2> <p>Cada entidad tiene su propio CRUD como parte de mi crecimiento técnico.</p> </td> </tr> <!-- Nivel 1 --> <tr> <td colspan="3" align="center"> <h3>🔵 Nivel 1 — Java + JDBC + DAO</h3> </td> </tr> <tr> <td align="center"><h4>👤 Usuario</h4><p>🔨 En desarrollo</p><a href="#">Repositorio</a></td> <td align="center"><h4>📘 Libro</h4><p>⏳ Pendiente</p><a href="#">Repositorio</a></td> <td align="center"><h4>🤝 Préstamo</h4><p>⏳ Pendiente</p><a href="#">Repositorio</a></td> </tr> <tr> <td align="center"><h4>🎉 Evento</h4><p>⏳ Pendiente</p><a href="#">Repositorio</a></td> <td align="center"><h4>🧑‍💼 Funcionario</h4><p>⏳ Pendiente</p><a href="#">Repositorio</a></td> <td></td> </tr> <!-- Nivel 2 --> <tr> <td colspan="3" align="center"> <h3>🟢 Nivel 2 — Spring Boot</h3> </td> </tr> <tr> <td align="center"><h4>👤 Usuario</h4><p>🔨 En desarrollo</p><a href="#">Repositorio</a></td> <td align="center"><h4>📘 Libro</h4><p>⏳ Pendiente</p><a href="#">Repositorio</a></td> <td align="center"><h4>🤝 Préstamo</h4><p>⏳ Pendiente</p><a href="#">Repositorio</a></td> </tr> <!-- Nivel 3 --> <tr> <td colspan="3" align="center"> <h3>🟣 Nivel 3 — Spring MVC + Thymeleaf</h3> </td> </tr> <tr> <td align="center"><h4>👤 Usuario</h4><p>⏳ Pendiente</p><a href="#">Repositorio</a></td> <td align="center"><h4>📘 Libro</h4><p>⏳ Pendiente</p><a href="#">Repositorio</a></td> <td align="center"><h4>🤝 Préstamo</h4><p>⏳ Pendiente</p><a href="#">Repositorio</a></td> </tr> </table>
-🎯 Objetivo de Este Camino
-
-✔ Dominar paso a paso Java y Spring
-✔ Mostrar la evolución real de una aplicación
-✔ Profundizar en arquitectura por capas
-✔ Desarrollar CRUD independientes por entidad
-✔ Construir un portafolio sólido y escalonado
