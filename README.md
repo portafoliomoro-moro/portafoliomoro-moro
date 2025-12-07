@@ -84,7 +84,7 @@ Me motiva crear productos que sean escalables, claros y que generen impacto real
 
 ---
 
-# 🚀 Proyectos
+#  Proyectos Personales & Ruta de Aprendizaje
 ### *Evolución del proyecto "Gestión de Biblioteca"*
 
 Cada módulo cuenta con tres versiones:
@@ -142,5 +142,147 @@ Cada módulo cuenta con tres versiones:
     <td align="center" width="200"><h4>Usuarios</h4><a href="#">🔗 Repositorio</a></td>
   </tr>
 </table>
+
+---
+
+# 🧠 Competencias Técnicas
+
+- Programación orientada a objetos (POO)
+- Patrones de diseño (DAO, MVC)
+- Arquitecturas por capas
+- Manejo de bases de datos relacionales
+- Desarrollo backend con Java + Spring
+- Control de versiones con Git y GitHub
+
+---
+
+# 📊 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+
+---
+
+# 📂 Proyectos (Vista tipo Tarjetas)
+
+<div align="center">
+
+<table>
+  <tr>
+    <td width="300" align="center">
+      <h3>Asistencia</h3>
+      <img src="https://via.placeholder.com/250x120?text=Asistencia" alt="Asistencia" />
+      <p>Gestión de asistencia con validaciones y reportes.</p>
+      <a href="#">🔗 Repositorio</a>
+    </td>
+    <td width="300" align="center">
+      <h3>Eventos</h3>
+      <img src="https://via.placeholder.com/250x120?text=Eventos" alt="Eventos" />
+      <p>Control de eventos, registro e historial.</p>
+      <a href="#">🔗 Repositorio</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="300" align="center">
+      <h3>Funcionarios</h3>
+      <img src="https://via.placeholder.com/250x120?text=Funcionarios" alt="Funcionarios" />
+      <p>Administración de personal y roles.</p>
+      <a href="#">🔗 Repositorio</a>
+    </td>
+    <td width="300" align="center">
+      <h3>Libros</h3>
+      <img src="https://via.placeholder.com/250x120?text=Libros" alt="Libros" />
+      <p>Manejo de catálogo, búsqueda y filtros.</p>
+      <a href="#">🔗 Repositorio</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="300" align="center">
+      <h3>Préstamos</h3>
+      <img src="https://via.placeholder.com/250x120?text=Prestamos" alt="Prestamos" />
+      <p>Sistema de préstamos con estados y fechas.</p>
+      <a href="#">🔗 Repositorio</a>
+    </td>
+    <td width="300" align="center">
+      <h3>Usuarios</h3>
+      <img src="https://via.placeholder.com/250x120?text=Usuarios" alt="Usuarios" />
+      <p>Registro, edición y control de usuarios.</p>
+      <a href="#">🔗 Repositorio</a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+
+###########################
+
+---
+
+# 📂 Proyectos (Vista tipo Acordeón)
+
+### 📘 Asistencia
+<details>
+  <summary>Mostrar detalles</summary>
+
+**Descripción:** Gestión de asistencia con registro y reportes.  
+🔗 **Repositorio:** <a href="#">Ver repositorio</a>  
+
+</details>
+
+### 🎉 Eventos
+<details>
+  <summary>Mostrar detalles</summary>
+
+**Descripción:** Control de eventos, registro e historial.  
+🔗 **Repositorio:** <a href="#">Ver repositorio</a>  
+
+</details>
+
+### 🧑‍💼 Funcionarios
+<details>
+  <summary>Mostrar detalles</summary>
+
+**Descripción:** Administración de personal y roles.  
+🔗 **Repositorio:** <a href="#">Ver repositorio</a>  
+
+</details>
+
+### 📚 Libros
+<details>
+  <summary>Mostrar detalles</summary>
+
+**Descripción:** Catálogo de libros, búsqueda y filtros.  
+🔗 **Repositorio:** <a href="#">Ver repositorio</a>  
+
+</details>
+
+### 🔄 Préstamos
+<details>
+  <summary>Mostrar detalles</summary>
+
+**Descripción:** Sistema de préstamos con estado y fechas.  
+🔗 **Repositorio:** <a href="#">Ver repositorio</a>  
+
+</details>
+
+### 👥 Usuarios
+<details>
+  <summary>Mostrar detalles</summary>
+
+**Descripción:** Registro, administración y control de usuarios.  
+🔗 **Repositorio:** <a href="#">Ver repositorio</a>  
+
+</details>
 
 ---
