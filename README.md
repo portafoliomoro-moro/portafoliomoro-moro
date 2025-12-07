@@ -147,34 +147,36 @@ Cada módulo cuenta con tres versiones:
 
 # 🧠 Competencias Técnicas
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" style="padding: 20px; border: 1px solid #444; vertical-align: top;">
-      <h3 align="left" style="margin-bottom: 15px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="22" style="vertical-align: middle;"/>  
-        &nbsp; 💻 Programación & Arquitectura
-      </h3>
-      <ul align="left" style="line-height: 1.7;">
-        <li>Programación Orientada a Objetos (POO)</li>
-        <li>Patrones de diseño: <b>DAO, MVC</b></li>
-        <li>Arquitecturas por capas</li>
+<div align="center" style="display: flex; justify-content: space-around; flex-wrap: wrap; gap: 40px; max-width: 800px; margin: auto;">
+
+  <div style="border: 1px solid #6c757d; border-radius: 10px; padding: 20px; width: 350px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); background-color: #f9f9f9;">
+    <h3 style="display: flex; align-items: center; gap: 10px; margin-bottom: 15px; color: #2d3748;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="24" alt="Java"/>  
+      💻 Programación & Arquitectura
+    </h3>
+    <ul style="line-height: 1.7; color: #4a5568;">
+      <li>Programación Orientada a Objetos (POO)</li>
+      <li>Patrones de diseño: <strong>DAO, MVC</strong></li>
+      <li>Arquitecturas por capas
+        <ul>
           <li>Dominio · Datos · Presentación</li>
           <li>Modelo · Repositorio · Servicio</li>
-      </ul>
-    </td>
-    <td width="50%" style="padding: 20px; border: 1px solid #444; vertical-align: top;">
-      <h3 align="left" style="margin-bottom: 15px;">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="22" style="vertical-align: middle;"/>  
-        &nbsp; 🗄 Bases de Datos & Backend
-      </h3>
-      <ul align="left" style="line-height: 1.7;">
-        <li>Bases de datos relacionales (MySQL)</li>
-        <li>Consultas SQL y modelado de datos</li>
-        <li>Backend con <b>Java + Spring Boot</b></li>
-        <li>Desarrollo web con Spring MVC + Thymeleaf</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+        </ul>
+      </li>
+    </ul>
+  </div>
 
----
+  <div style="border: 1px solid #6c757d; border-radius: 10px; padding: 20px; width: 350px; box-shadow: 2px 2px 8px rgba(0,0,0,0.1); background-color: #f9f9f9;">
+    <h3 style="display: flex; align-items: center; gap: 10px; margin-bottom: 15px; color: #2d3748;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="24" alt="MySQL"/>  
+      🗄 Bases de Datos & Backend
+    </h3>
+    <ul style="line-height: 1.7; color: #4a5568;">
+      <li>Bases de datos relacionales (MySQL)</li>
+      <li>Consultas SQL y modelado de datos</li>
+      <li>Backend con <strong>Java + Spring Boot</strong></li>
+      <li>Desarrollo web con Spring MVC + Thymeleaf</li>
+    </ul>
+  </div>
+
+</div>
