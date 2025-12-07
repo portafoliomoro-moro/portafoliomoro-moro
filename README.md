@@ -144,13 +144,14 @@ Cada módulo cuenta con tres versiones:
 </table>
 
 ---
+
 # 🧠 Competencias Técnicas
 
 <table align="center">
   <tr>
-    <td align="center" width="300">
-      <h3>💻 Programación & Arquitectura</h3>
-      <ul align="left">
+    <td align="center" width="350" style="padding: 20px;">
+      <h3 style="margin-bottom: 15px;">💻 Programación & Arquitectura</h3>
+      <ul align="left" style="line-height: 1.6;">
         <li>Programación Orientada a Objetos (POO)</li>
         <li>Patrones de diseño: <b>DAO, MVC</b></li>
         <li>Arquitecturas por capas</li>
@@ -158,51 +159,16 @@ Cada módulo cuenta con tres versiones:
         <li>Modelo · Repositorio · Servicio</li>
       </ul>
     </td>
-    <td align="center" width="300">
-      <h3>🗄 Bases de Datos & Backend</h3>
-      <ul align="left">
+    <td align="center" width="350" style="padding: 20px;">
+      <h3 style="margin-bottom: 15px;">🗄 Bases de Datos & Backend</h3>
+      <ul align="left" style="line-height: 1.6;">
         <li>Bases de datos relacionales (MySQL)</li>
         <li>Consultas SQL y modelado de datos</li>
         <li>Backend con <b>Java + Spring Boot</b></li>
         <li>Desarrollo web con Spring MVC + Thymeleaf</li>
       </ul>
     </td>
-    <td align="center" width="300">
-      <h3>🛠 Control de Versiones</h3>
-      <ul align="left">
-        <li>Git (ramas, commits, PRs)</li>
-        <li>GitHub (issues, proyectos, documentación)</li>
-      </ul>
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="300">
-      <h3>🚀 Metodologías & Documentación</h3>
-      <ul align="left">
-        <li>Scrum y metodologías ágiles</li>
-        <li>Documentación técnica con <b>Jira</b> y <b>Confluence</b></li>
-      </ul>
-    </td>
-    <td align="center" width="300">
-      <h3>📚 Buenas Prácticas</h3>
-      <ul align="left">
-        <li>Buenas prácticas de código</li>
-        <li>Clean Code (nociones)</li>
-        <li>Versionado semántico</li>
-      </ul>
-    </td>
-    <td align="center" width="300">
-      <h3>🤝 Competencias Profesionales</h3>
-      <ul align="left">
-        <li>Trabajo en equipo</li>
-        <li>Resolución de problemas</li>
-        <li>Comunicación técnica</li>
-      </ul>
-    </td>
   </tr>
 </table>
 
-
 ---
-
