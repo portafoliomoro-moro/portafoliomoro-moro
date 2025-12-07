@@ -158,7 +158,6 @@ Cada módulo cuenta con tres versiones:
         <li>Modelo · Repositorio · Servicio</li>
       </ul>
     </td>
-
     <td align="center" width="300">
       <h3>🗄 Bases de Datos & Backend</h3>
       <ul align="left">
@@ -168,7 +167,6 @@ Cada módulo cuenta con tres versiones:
         <li>Desarrollo web con Spring MVC + Thymeleaf</li>
       </ul>
     </td>
-
     <td align="center" width="300">
       <h3>🛠 Control de Versiones</h3>
       <ul align="left">
@@ -186,7 +184,6 @@ Cada módulo cuenta con tres versiones:
         <li>Documentación técnica con <b>Jira</b> y <b>Confluence</b></li>
       </ul>
     </td>
-
     <td align="center" width="300">
       <h3>📚 Buenas Prácticas</h3>
       <ul align="left">
@@ -195,7 +192,6 @@ Cada módulo cuenta con tres versiones:
         <li>Versionado semántico</li>
       </ul>
     </td>
-
     <td align="center" width="300">
       <h3>🤝 Competencias Profesionales</h3>
       <ul align="left">
