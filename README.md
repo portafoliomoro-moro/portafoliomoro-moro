@@ -144,44 +144,68 @@ Cada módulo cuenta con tres versiones:
 </table>
 
 ---
+# 🧠 Competencias Técnicas
 
-+==========================================================================================+
-|                            🧠  COMPETENCIAS TÉCNICAS                                      |
-+==========================================================================================+
+<table align="center">
+  <tr>
+    <td align="center" width="300">
+      <h3>💻 Programación & Arquitectura</h3>
+      <ul align="left">
+        <li>Programación Orientada a Objetos (POO)</li>
+        <li>Patrones de diseño: <b>DAO, MVC</b></li>
+        <li>Arquitecturas por capas</li>
+        <li>Domino · Datos · Presentación</li>
+        <li>Modelo · Repositorio · Servicio</li>
+      </ul>
+    </td>
 
+    <td align="center" width="300">
+      <h3>🗄 Bases de Datos & Backend</h3>
+      <ul align="left">
+        <li>Bases de datos relacionales (MySQL)</li>
+        <li>Consultas SQL y modelado de datos</li>
+        <li>Backend con <b>Java + Spring Boot</b></li>
+        <li>Desarrollo web con Spring MVC + Thymeleaf</li>
+      </ul>
+    </td>
 
-+-----------------------------------------+-----------------------------------------------+
-| 💻 PROGRAMACIÓN & ARQUITECTURA          | 🗄 BASES DE DATOS & BACKEND                    |
-+-----------------------------------------+-----------------------------------------------+
-| • Programación Orientada a Objetos      | • Bases de datos relacionales (MySQL)         |
-|   (POO)                                 | • Consultas SQL y modelado de datos           |
-| • Patrones de diseño: DAO, MVC          | • Backend con Java + Spring Boot              |
-| • Arquitecturas por capas               | • Desarrollo web con Spring MVC + Thymeleaf   |
-|    - Dominio · Datos · Presentación     |                                               |
-|    - Modelo · Repositorio · Servicio    |                                               |
-+-----------------------------------------+-----------------------------------------------+
+    <td align="center" width="300">
+      <h3>🛠 Control de Versiones</h3>
+      <ul align="left">
+        <li>Git (ramas, commits, PRs)</li>
+        <li>GitHub (issues, proyectos, documentación)</li>
+      </ul>
+    </td>
+  </tr>
 
+  <tr>
+    <td align="center" width="300">
+      <h3>🚀 Metodologías & Documentación</h3>
+      <ul align="left">
+        <li>Scrum y metodologías ágiles</li>
+        <li>Documentación técnica con <b>Jira</b> y <b>Confluence</b></li>
+      </ul>
+    </td>
 
-+-----------------------------------------+-----------------------------------------------+
-| 🛠 CONTROL DE VERSIONES                 | 🚀 METODOLOGÍAS & DOCUMENTACIÓN               |
-+-----------------------------------------+-----------------------------------------------+
-| • Git (ramas, commits, PRs)             | • Scrum y metodologías ágiles                 |
-| • GitHub (issues, proyectos,            | • Documentación técnica en Jira y             |
-|   documentación)                        |   Confluence                                  |
-+-----------------------------------------+-----------------------------------------------+
+    <td align="center" width="300">
+      <h3>📚 Buenas Prácticas</h3>
+      <ul align="left">
+        <li>Buenas prácticas de código</li>
+        <li>Clean Code (nociones)</li>
+        <li>Versionado semántico</li>
+      </ul>
+    </td>
 
-
-# 📊 Estadísticas de GitHub
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=portafoliomoro-moro&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=portafoliomoro-moro&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
+    <td align="center" width="300">
+      <h3>🤝 Competencias Profesionales</h3>
+      <ul align="left">
+        <li>Trabajo en equipo</li>
+        <li>Resolución de problemas</li>
+        <li>Comunicación técnica</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 
 ---
