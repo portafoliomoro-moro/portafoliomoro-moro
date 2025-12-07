@@ -51,6 +51,7 @@
 
 ---
 
+
 # 🧑‍💻 Sobre mí
 
 Soy **Tecnólogo en Desarrollo de Software** con especial interés en el desarrollo backend con **Java + Spring Boot**, complementado con experiencia en desarrollo frontend utilizando Angular.
@@ -67,6 +68,7 @@ Me motiva crear productos que sean escalables, claros y que generen impacto real
 
 
 ---
+
 
 # 📞 Contacto
 
@@ -86,6 +88,7 @@ Me motiva crear productos que sean escalables, claros y que generen impacto real
 
 ---
 
+
 #  Proyectos Personales & Ruta de Aprendizaje
 ### *Evolución del proyecto "Gestión de Biblioteca"*
 
@@ -97,61 +100,69 @@ Cada módulo cuenta con tres versiones:
 
 ---
 
+
 #  Versión 1 — JDBC + DAO (Arquitectura 3 Capas)
+
 
 <table align="center">
   <tr>
-    <td align="center" width="200"><h4>Asistencia</h4><a href="#">🔗 Repositorio</a></td>
-    <td align="center" width="200"><h4>Eventos</h4><a href="#">🔗 Repositorio</a></td>
-    <td align="center" width="200"><h4>Funcionarios</h4><a href="#">🔗 Repositorio</a></td>
+    <td align="center" width="200"><h4>Gestión Asistencia</h4><a href="#">🔗 Repositorio</a></td>
+    <td align="center" width="200"><h4>Gestión Eventos</h4><a href="#">🔗 Repositorio</a></td>
+    <td align="center" width="200"><h4>Gestión Funcionarios</h4><a href="#">🔗 Repositorio</a></td>
   </tr>
   <tr>
-    <td align="center" width="200"><h4>Libros</h4><a href="#">🔗 Repositorio</a></td>
-    <td align="center" width="200"><h4>Préstamos</h4><a href="#">🔗 Repositorio</a></td>
-    <td align="center" width="200"><h4>Usuarios</h4><a href="#">🔗 Repositorio</a></td>
+    <td align="center" width="200"><h4>Gestión Libros</h4><a href="#">🔗 Repositorio</a></td>
+    <td align="center" width="200"><h4>Gestión Préstamos</h4><a href="#">🔗 Repositorio</a></td>
+    <td align="center" width="200"><h4>Gestión Usuarios</h4><a href="#">🔗 Repositorio</a></td>
   </tr>
 </table>
 
 
 ---
+
 
 #  Versión 2 — Spring Boot (Modelo + Repositorio + Servicio)
 
+
 <table align="center">
   <tr>
-    <td align="center" width="200"><h4>Asistencia</h4><a href="#">🔗 Repositorio</a></td>
-    <td align="center" width="200"><h4>Eventos</h4><a href="#">🔗 Repositorio</a></td>
-    <td align="center" width="200"><h4>Funcionarios</h4><a href="#">🔗 Repositorio</a></td>
+    <td align="center" width="200"><h4>Gestión Asistencia</h4><a href="#">🔗 Repositorio</a></td>
+    <td align="center" width="200"><h4>Gestión Eventos</h4><a href="#">🔗 Repositorio</a></td>
+    <td align="center" width="200"><h4>Gestión Funcionarios</h4><a href="#">🔗 Repositorio</a></td>
   </tr>
   <tr>
-    <td align="center" width="200"><h4>Libros</h4><a href="#">🔗 Repositorio</a></td>
-    <td align="center" width="200"><h4>Préstamos</h4><a href="#">🔗 Repositorio</a></td>
-    <td align="center" width="200"><h4>Usuarios</h4><a href="#">🔗 Repositorio</a></td>
+    <td align="center" width="200"><h4>Gestión Libros</h4><a href="#">🔗 Repositorio</a></td>
+    <td align="center" width="200"><h4>Gestión Préstamos</h4><a href="#">🔗 Repositorio</a></td>
+    <td align="center" width="200"><h4>Gestión Usuarios</h4><a href="#">🔗 Repositorio</a></td>
   </tr>
 </table>
 
 
 ---
+
 
 #  Versión 3 — Spring MVC + Thymeleaf
 
+
 <table align="center">
   <tr>
-    <td align="center" width="200"><h4>Asistencia</h4><a href="#">🔗 Repositorio</a></td>
-    <td align="center" width="200"><h4>Eventos</h4><a href="#">🔗 Repositorio</a></td>
-    <td align="center" width="200"><h4>Funcionarios</h4><a href="#">🔗 Repositorio</a></td>
+    <td align="center" width="200"><h4>Gestión Asistencia</h4><a href="#">🔗 Repositorio</a></td>
+    <td align="center" width="200"><h4>Gestión Eventos</h4><a href="#">🔗 Repositorio</a></td>
+    <td align="center" width="200"><h4>Gestión Funcionarios</h4><a href="#">🔗 Repositorio</a></td>
   </tr>
   <tr>
-    <td align="center" width="200"><h4>Libros</h4><a href="#">🔗 Repositorio</a></td>
-    <td align="center" width="200"><h4>Préstamos</h4><a href="#">🔗 Repositorio</a></td>
-    <td align="center" width="200"><h4>Usuarios</h4><a href="#">🔗 Repositorio</a></td>
+    <td align="center" width="200"><h4>Gestión Libros</h4><a href="#">🔗 Repositorio</a></td>
+    <td align="center" width="200"><h4>Gestión Préstamos</h4><a href="#">🔗 Repositorio</a></td>
+    <td align="center" width="200"><h4>Gestión Usuarios</h4><a href="#">🔗 Repositorio</a></td>
   </tr>
 </table>
 
 
 ---
 
+
 # 🧠 Competencias Técnicas
+
 
 <table align="center" width="100%">
   <tr>
@@ -185,5 +196,6 @@ Cada módulo cuenta con tres versiones:
     </td>
   </tr>
 </table>
+
 
 ---
