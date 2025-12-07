@@ -48,14 +48,48 @@
   </tr>
 </table>
 
+
 ---
 
-# 🚀 Roadmap de Proyectos
-### *Evolución del proyecto "Gestión de una Biblioteca Municipal"*
+# 🧑‍💻 Sobre mí
+
+Soy **Tecnólogo en Desarrollo de Software** con especial interés en el desarrollo backend con **Java + Spring Boot**, complementado con experiencia en desarrollo frontend utilizando Angular.
+
+Me destaco por:
+
+✨ **Código limpio**, mantenible y siguiendo buenas prácticas  
+✨ Excelente **capacidad de documentación** técnica (Jira, Confluence)  
+✨ Comprensión de **metodologías ágiles** como Scrum  
+✨ Adaptación rápida a nuevos entornos y tecnologías  
+✨ Comunicación clara y pensamiento orientado a la solución  
+
+Me motiva crear productos que sean escalables, claros y que generen impacto real.
+
+---
+
+# 📞 Contacto
+
+<div align="center">
+
+<div align="center">
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jcmoro1234@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/3116918615)
+
+</div>
+
+
+</div>
+
+---
+
+# 🚀 Proyectos
+### *Evolución del proyecto "Gestión de Biblioteca"*
 
 Cada módulo cuenta con tres versiones:
-1. JDBC + DAO + 3 capas (consola)
-2. Spring Boot (modelo, repositorio y servicio – consola)
+1. JDBC + MySQL + DAO (consola)
+2. Spring Boot (modelo, repositorio y servicio) 
 3. Spring MVC + Thymeleaf (web)
 
 ---
@@ -110,36 +144,3 @@ Cada módulo cuenta con tres versiones:
 </table>
 
 ---
-
-# 🗺️ Mapa de Avance
-
-| Etapa | Estado |
-|-------|--------|
-| CRUD JDBC (6 repos) | ⏳ En desarrollo |
-| CRUD Spring Boot (6 repos) | ⏳ Pendiente |
-| CRUD Spring MVC + Thymeleaf (6 repos) | ⏳ Pendiente |
-| Proyecto final integrado | 🔜 Próximamente |
-
----
-
-# 🧑‍💻 Sobre mí
-
-Soy **Tecnólogo en Desarrollo de Software** con enfoque actual en el backend con **Java + Spring Boot** y experiencia en Angular.
-
-- Código limpio y mantenible  
-- Buenas prácticas de programación  
-- Documentación clara con Jira y Confluence  
-- Trabajo bajo Scrum  
-- Aprendizaje rápido y pensamiento analítico  
-
----
-
-# 📞 Contacto
-
-<div align="center">
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
-[![Email](https://img.shields.io/badge/Correo-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)  
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/)  
-
-</div>
