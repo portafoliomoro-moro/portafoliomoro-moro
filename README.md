@@ -108,7 +108,7 @@ Cada módulo cuenta con tres versiones:
   <tr>
     <td align="center" width="200"><h4>Gestión Asistencia</h4><a href="#">🔗 Repositorio</a></td>
     <td align="center" width="200"><h4>Gestión Eventos</h4><a href="#">🔗 Repositorio</a></td>
-    <td align="center" width="200"><h4>Gestión Funcionarios</h4><a href="#">🔗 Repositorio</a></td>
+    <td align="center" width="200"><h4>Gestión Funcionarios</h4><a href="https://github.com/portafoliomoro-moro/Gestion-Funcionarios.git">🔗 Repositorio</a></td>
   </tr>
   <tr>
     <td align="center" width="200"><h4>Gestión Libros</h4><a href="https://github.com/portafoliomoro-moro/Gestion-Libros.git">🔗 Repositorio</a></td>
