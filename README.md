@@ -6,7 +6,7 @@
 
 <!-- Banner de Tecnologías -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C9FF&center=true&vCenter=true&width=600&lines=Tecnólogo+en+Desarrollo+de+Software;Desarrollador+Java+%7C+Spring+Boot;Frontend+con+Angular;Apasionado+por+el+código+limpio+y+AGILE" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C9FF&center=true&vCenter=true&width=600&lines=Tecnólogo+en+Desarrollo+de+Software;Desarrollador+Java+%7C+Spring+Boot;Apasionado+por+el+código+limpio+y+AGILE" />
 </div>
 
 ---
@@ -27,7 +27,7 @@
       <h3>🟧 Frontend</h3>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45"/>
+      <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="45"/> -->
     </td>
   </tr>
   <tr>
