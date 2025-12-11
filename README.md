@@ -106,7 +106,7 @@ Cada módulo cuenta con tres versiones:
 
 <table align="center">
   <tr>
-    <td align="center" width="200"><h4>Gestión Asistencia</h4><a href="#">🔗 Repositorio</a></td>
+    <td align="center" width="200"><h4>Gestión Biblioteca</h4><a href="#">🔗 Repositorio</a></td>
     <td align="center" width="200"><h4>Gestión Eventos</h4><a href="https://github.com/portafoliomoro-moro/Gestion-Eventos---Java-MySQL-DAO.git">🔗 Repositorio</a></td>
     <td align="center" width="200"><h4>Gestión Funcionarios</h4><a href="https://github.com/portafoliomoro-moro/Gestion-Funcionarios.git">🔗 Repositorio</a></td>
   </tr>
@@ -126,7 +126,7 @@ Cada módulo cuenta con tres versiones:
 
 <table align="center">
   <tr>
-    <td align="center" width="200"><h4>Gestión Gestión Biblioteca</h4><a href="#">🔗 Repositorio</a></td>
+    <td align="center" width="200"><h4>Gestión Biblioteca</h4><a href="#">🔗 Repositorio</a></td>
     <td align="center" width="200"><h4>Gestión Eventos</h4><a href="#">🔗 Repositorio</a></td>
     <td align="center" width="200"><h4>Gestión Funcionarios</h4><a href="#">🔗 Repositorio</a></td>
   </tr>
@@ -146,7 +146,7 @@ Cada módulo cuenta con tres versiones:
 
 <table align="center">
   <tr>
-    <td align="center" width="200"><h4>Gestión Asistencia</h4><a href="#">🔗 Repositorio</a></td>
+    <td align="center" width="200"><h4>Gestión Biblioteca</h4><a href="#">🔗 Repositorio</a></td>
     <td align="center" width="200"><h4>Gestión Eventos</h4><a href="#">🔗 Repositorio</a></td>
     <td align="center" width="200"><h4>Gestión Funcionarios</h4><a href="#">🔗 Repositorio</a></td>
   </tr>
