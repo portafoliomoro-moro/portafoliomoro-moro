@@ -112,7 +112,7 @@ Cada módulo cuenta con tres versiones:
   </tr>
   <tr>
     <td align="center" width="200"><h4>Gestión Libros</h4><a href="https://github.com/portafoliomoro-moro/Gestion-Libros.git">🔗 Repositorio</a></td>
-    <td align="center" width="200"><h4>Gestión Préstamos</h4><a href="#">🔗 Repositorio</a></td>
+    <td align="center" width="200"><h4>Gestión Préstamos</h4><a href="https://github.com/portafoliomoro-moro/Gestion-Prestamos-JAVA-MySQL-DAO.git">🔗 Repositorio</a></td>
     <td align="center" width="200"><h4>Gestión Usuarios</h4><a href="https://github.com/portafoliomoro-moro/Gestion-Usuarios-JDBC-.git">🔗 Repositorio</a></td>
   </tr>
 </table>
