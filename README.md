@@ -6,7 +6,7 @@
 
 <!-- Banner de Tecnologías -->
 
-<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C9FF&center=true&vCenter=true&width=600&lines=Tecnólogo+en+Desarrollo+de+Software;Desarrollador+Java+Junior%7C+Spring+Boot+%26+MVC;Creación+de+Software+Eficiente+y+Escalable"" /> </div>
+<div align="center"> <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00C9FF&center=true&vCenter=true&width=600&lines=Tecnólogo+en+Desarrollo+de+Software;Desarrollador+Java+Junior%7C+Spring+Boot+%26+MVC+;Creación+de+Software+Eficiente+y+Escalable"" /> </div>
 
 
 ---
